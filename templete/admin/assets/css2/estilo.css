@@ -1,0 +1,48 @@
+.topo1{
+	background: #FFF8DC;
+}
+.titulo{
+	font-family: "Edwardian Script ITC";
+	font-size: 50px;
+}
+.topo2{
+	background: #F7819F;
+}
+.home{
+	background: #B40404;
+	border-radius: 5px;
+	color: #fff;
+}
+.sair{
+	margin-left: 10px;
+	background: #B40404;
+	border-radius: 5px;
+	color: #fff;
+}
+.rodape{
+	background: #F7819F;
+	margin-top: 10px;
+}
+.carrossel img{
+    width: 100px;
+    border-radius: 100%;
+}
+.depoimento{
+    color: #fff;
+    font-size: 30px;
+}
+.assinatura{
+	font-style: italic;
+	font-size: 18px;
+}
+h1{
+	font-family: 'Arial';
+	text-align: center;
+}
+.carrossel{
+	 text-align: center;
+}
+.direitos p{
+	margin-top: 50px;
+	font-size: 20px;
+}
